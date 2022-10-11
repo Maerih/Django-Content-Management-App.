@@ -2,10 +2,10 @@
 A Django content management app to post feeds,news etc.Supported by a Postgres database to store your contents.
 
 
-###View live website on 
+### View live website on 
 
 
-##Features
+## Features
 
 ⚡️ Fully Responsive\
 ⚡️ Django & Postgres\
