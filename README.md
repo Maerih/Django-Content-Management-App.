@@ -29,6 +29,10 @@ A Django content management app to post feeds,news etc.Supported by a Postgres d
 
 ![content](content.png)
 
+6. Content.
+
+![content1](content1.png)
+
 ### NB: Change the postgres database configuration in the `settings.py. 
 ###    Change the display by altering the css and html to fulfill you design.
 
