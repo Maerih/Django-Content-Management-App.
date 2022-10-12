@@ -4,7 +4,10 @@ A Django content management app to post feeds,news etc.Supported by a Postgres d
 
 ### View live website on 
 
-[Screencast from 2022-10-12 07-15-10.webm](https://user-images.githubusercontent.com/106890328/195248736-9e1e9ace-4274-4e64-8ced-fe8834a48a0d.webm)
+
+
+https://user-images.githubusercontent.com/106890328/195270311-7a4fb83f-5c67-4991-a732-af4127c5c8dd.mp4
+
 
 
 ## Features
